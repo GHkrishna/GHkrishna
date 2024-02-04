@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GHkrishna
 - 👀 I’m interested in blockchain and related technologies.
-- 🌱 I’m a final year engineering student.
-- 💞️ I’m looking to collaborate on blockchain or java/c++ related projects.
+- 💞️ Having fun experementing with tech.
 - 📫 How to reach me:: waskekrishna@gmail.com
 - 📝 Blogs at:: https://waskekrishna.medium.com/
